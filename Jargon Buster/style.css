@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 16px;
+  }
+  
+  header {
+    background-color: #425563;
+    color: #FFFFFF;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  .search-form {
+    margin: 0;
+  }
+  
+  .search-form input {
+    width: 200px;
+    padding: 0.5rem;
+    border: none;
+    border-radius: 0.25rem;
+  }
+  
+  main {
+    margin: 1rem;
+  }
+  
+  .terms-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    margin-bottom: 1rem;
+    border: 1px solid #CCCCCC;
+    padding: 1rem;
+    border-radius: 0.25rem;
+  }
+  
+  h2 {
+    margin: 0;
+  }
+  
+  p {
+    margin: 0;
+    margin-top: 0.5rem;
+  }
+  
